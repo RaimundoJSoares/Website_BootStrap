@@ -15,6 +15,13 @@ body{
     padding-top: 10px;
 }
 
-.parceiros{
+.serviços{
+    background-color:pink;
+}
 
+footer{
+    background-color: black;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 1px;
 }
