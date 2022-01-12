@@ -1,2 +1,2 @@
 # bootstrap_studies
- My studies with Bootstrap
+ Front-end Page using BootStrap, HTML and CSS 
